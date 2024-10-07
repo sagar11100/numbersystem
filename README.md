@@ -1,6 +1,7 @@
 Description of Project
 1. Given an array i was told that to print ODD and Even 
 2. Given an array in which i had to find all the prime numbers and the maximum and minimum numbers in prime and after that i had to sum all the prime numbers in an array.
+
 Output for 1:
 3 is Odd
 7 is Odd
